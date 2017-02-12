@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\bin\Debug\SecondTask.exe.config
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\bin\Debug\SecondTask.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\bin\Debug\SecondTask.pdb
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\obj\Debug\SecondTask.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\SecondTask\obj\Debug\SecondTask.pdb

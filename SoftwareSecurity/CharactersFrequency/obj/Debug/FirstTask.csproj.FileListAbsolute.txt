@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\FirstTask.exe.config
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\FirstTask.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\FirstTask.pdb
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\FirstTask.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\FirstTask.pdb

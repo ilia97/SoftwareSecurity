@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\CharactersFrequency.exe.config
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\CharactersFrequency.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\bin\Debug\CharactersFrequency.pdb
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\CharactersFrequency.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\CharactersFrequency.exe
+D:\Учёба\3 курс\БПиД\Лк1 ДЗ\SoftwareSecurity\CharactersFrequency\obj\Debug\CharactersFrequency.pdb
