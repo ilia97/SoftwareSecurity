@@ -38,7 +38,10 @@ namespace SecondTask.Services
             { 'Y', "11110" },
             { 'Z', "01001" },
             { '-', "01011" },
-            { '-', "01011" },
+            { '1', "01111" },
+            { '2', "10111" },
+            { '3', "00111" },
+            { '4', "11111" },
         };
 
         public string Encrypt(string text, string key)

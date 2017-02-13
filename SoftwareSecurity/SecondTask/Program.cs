@@ -22,6 +22,10 @@ namespace SecondTask
             Console.WriteLine("--------------------------------------------------------------\n");
 
             Console.WriteLine("2.1 XOR.");
+            Console.WriteLine($"true XOR true = { service.XOR(true, true) } ");
+            Console.WriteLine($"true XOR false = { service.XOR(true, false) } ");
+            Console.WriteLine($"false XOR true = { service.XOR(false, true) } ");
+            Console.WriteLine($"false XOR false = { service.XOR(false, false) } ");
         }
     }
 }
